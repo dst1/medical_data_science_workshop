@@ -1,0 +1,17 @@
+name: HackathonHarap
+channels:
+  - anaconda
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - python=3.7
+  - seaborn
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - plotnine
